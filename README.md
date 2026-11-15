@@ -43,7 +43,7 @@ Notebooks com experimentos de **fine-tuning de chatbot com a API da OpenAI** e u
 ### 🌐 [felipeferreira.io](https://github.com/felipesilfer/felipeferreira.io)
 **Meu site pessoal e blog**
 
-Site estático com perfil, currículo e artigos, publicado em [felipeferreira.io](https://felipeferreira.io) via **GitHub Actions** e **GitHub Pages**, com domínio na **Cloudflare** e comentários pelo **Giscus**.
+Site estático com perfil, currículo e artigos, publicado em [felipeferreira.io](https://felipeferreira.io) via **GitHub Actions** e **GitHub Pages**, com domínio na **Cloudflare** e comentários pelo **Disqus**.
 
 **Tech Stack:** Hugo, Hextra, Markdown, CSS, GitHub Actions
 
