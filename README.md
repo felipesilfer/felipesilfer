@@ -3,6 +3,8 @@
 Profissional de tecnologia no **SERPRO**, no Rio de Janeiro, com interesse em **Python**, **DevOps** e **Data Science**.
 Sou bacharel em **Sistemas de Informação** pelo Instituto Federal Fluminense (IFF).
 
+🌐 **Site e blog:** [felipeferreira.io](https://felipeferreira.io), onde escrevo artigos sobre tecnologia e carreira.
+
 📌 **Foco atual:**
 - 🐍 Desenvolvimento com **Python**
 - ⚙️ Práticas de **DevOps** e automação
@@ -33,6 +35,20 @@ Notebooks com experimentos de **fine-tuning de chatbot com a API da OpenAI** e u
 
 **Tech Stack:** Python, Jupyter Notebook, OpenAI API, Web Scraping
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [felipeferreira.io](https://github.com/felipesilfer/felipeferreira.io)
+**Meu site pessoal e blog**
+
+Site estático com perfil, currículo e artigos, publicado em [felipeferreira.io](https://felipeferreira.io) via **GitHub Actions** e **GitHub Pages**, com domínio na **Cloudflare** e comentários pelo **Giscus**.
+
+**Tech Stack:** Hugo, Hextra, Markdown, CSS, GitHub Actions
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -70,6 +86,9 @@ Notebooks com experimentos de **fine-tuning de chatbot com a API da OpenAI** e u
 ## 🤝 Contato
 
 <p>
+<a href="https://felipeferreira.io">
+  <img src="https://img.shields.io/badge/felipeferreira.io-000000?style=for-the-badge&logo=hugo&logoColor=white" height="25" alt="Site e blog felipeferreira.io">
+</a>
 <a href="https://x.com/felipesilfer">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25" alt="X">
 </a>
